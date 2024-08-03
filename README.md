@@ -4,7 +4,7 @@
 ## Overview
 This project is a mock interview application designed to simulate interview scenarios. It utilizes Google Gemini for generating questions, and it allows users to record their answers, which are then converted to text and evaluated for performance ratings. The application is built with Next.js, Tailwind CSS, and various other technologies.
 
-[MEDICOSOCTORS WEBSITE LINK](https://ai-mock-interview-app-ochre.vercel.app/)
+[AI MOCK INTERVIEW WEBSITE LINK](https://ai-mock-interview-app-ochre.vercel.app/)
 
 
 
