@@ -35,4 +35,4 @@ and install it on npm install @google/generative-ai
 we use react web cam
 
 ##react hook to text
-o transform audio into text
+to transform audio into text
