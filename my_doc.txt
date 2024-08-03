@@ -1,0 +1,38 @@
+use npx create-next-app@latest to create react app
+
+#setup shadcn library
+it is popular tailwind css library
+
+#use clerk  authentication for login
+
+#use huperui to create template for sign in and signup page
+
+
+##Header
+
+make header and provide links to that logo and image also 
+
+##workFlow
+
+Generate Q&A from Ai(Google Gemini) -->show Ques one by one --> Record User Answer --> convert user answer(speech to text) --> save question with user answer in database for final Report
+
+##backend setup
+app --><-- Drizzle ORM --><-- PostGresql
+
+in drizzle we use neon data base
+setup neon data base 
+#npm run db:push to check whether connected or not
+#npm run db:studio to see database details and maange them
+
+#create mock interview with gemini Ai
+
+##Google Gemini Api
+make account and get api key
+and install it on npm install @google/generative-ai
+
+
+##Web Camera
+we use react web cam
+
+##react hook to text
+o transform audio into text
